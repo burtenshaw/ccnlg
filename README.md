@@ -1,5 +1,7 @@
 # CCNLG Proceedings
 
+Source: http://aclanthology.info/contributors
+
 ## To be submitted
 
 A zip file containing:
