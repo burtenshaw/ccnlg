@@ -1,0 +1,110 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Chen and Manning}2014]{chen2014fast}
+Danqi Chen and Christopher~D Manning.
+\newblock 2014.
+\newblock A fast and accurate dependency parser using neural networks.
+\newblock In {\em Proceedings of the EMNLP}.
+
+\bibitem[\protect\citename{Francisco and Herv{\'a}s}2007]{francisco2007emotag}
+Virginia Francisco and Raquel Herv{\'a}s.
+\newblock 2007.
+\newblock Emotag: Automated mark up of affective information in texts.
+\newblock {\em Proceedings of Doctoral Consortium at the 8th EUROLAN summer
+  school}.
+
+\bibitem[\protect\citename{He and others}2016]{he2015deep}
+Ji~He et~al.
+\newblock 2016.
+\newblock Deep reinforcement learning with a natural language action space.
+\newblock In {\em Proceedings of the 54th Annual Meeting of the ACL}.
+
+\bibitem[\protect\citename{Kumagai and others}2016]{kobayashi2016human}
+Kaori Kumagai et~al.
+\newblock 2016.
+\newblock Human-like natural language generation using monte carlo tree search.
+\newblock In {\em Proceedings of CC-NLG}.
+
+\bibitem[\protect\citename{Le{\'o}n and Gerv{\'a}s}2014]{leon2014creativity}
+Carlos Le{\'o}n and Pablo Gerv{\'a}s.
+\newblock 2014.
+\newblock Creativity in story generation from the ground up: Nondeterministic
+  simulation driven by narrative.
+\newblock In {\em Proceedings of the 5th ICCC}.
+
+\bibitem[\protect\citename{Li and others}2013]{li2013story}
+Boyang Li et~al.
+\newblock 2013.
+\newblock Story generation with crowdsourced plot graphs.
+\newblock In {\em 27th AAAI Conference}.
+
+\bibitem[\protect\citename{Lillicrap and others}2016]{lillicrap2015continuous}
+Timothy~P Lillicrap et~al.
+\newblock 2016.
+\newblock Continuous control with deep reinforcement learning.
+\newblock In {\em Proceedings of ICLR}.
+
+\bibitem[\protect\citename{Lintean and Rus}2009]{lintean2009paraphrase}
+Mihai Lintean and Vasile Rus.
+\newblock 2009.
+\newblock Paraphrase identification using weighted dependencies and word
+  semantics.
+\newblock In {\em Proceedings of the 22nd FLAIRS}.
+
+\bibitem[\protect\citename{McIntyre and Lapata}2009]{mcintyre2009learning}
+Neil McIntyre and Mirella Lapata.
+\newblock 2009.
+\newblock Learning to tell tales: A data-driven approach to story generation.
+\newblock In {\em Proceedings of ACL-IJCNLP}, pages 217--225. ACL.
+
+\bibitem[\protect\citename{McIntyre and Lapata}2010]{mcintyre2010plot}
+Neil McIntyre and Mirella Lapata.
+\newblock 2010.
+\newblock Plot induction and evolutionary search for story generation.
+\newblock In {\em Proceedings of the 48th Annual Meeting of the ACL}.
+
+\bibitem[\protect\citename{Mikolov and others}2013]{mikolov2013efficient}
+Tomas Mikolov et~al.
+\newblock 2013.
+\newblock Efficient estimation of word representations in vector space.
+\newblock In {\em Proceedings of ICLR}.
+
+\bibitem[\protect\citename{Miller}1995]{miller1995wordnet}
+G.~A. Miller.
+\newblock 1995.
+\newblock {W}ord{N}et: {A} {L}exical {D}atabase for {E}nglish.
+\newblock {\em Communications of the {A}{C}{M}}, 38(11).
+
+\bibitem[\protect\citename{Mnih and others}2015]{mnih2015human}
+Volodymyr Mnih et~al.
+\newblock 2015.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518(7540):529--533.
+
+\bibitem[\protect\citename{Narasimhan and others}2015]{narasimhan2015language}
+Karthik Narasimhan et~al.
+\newblock 2015.
+\newblock Language understanding for text-based games using deep reinforcement
+  learning.
+\newblock In {\em Proceedings of CEMNLP}.
+
+\bibitem[\protect\citename{Nivre and others}2016]{nivre2016universal}
+Joakim Nivre et~al.
+\newblock 2016.
+\newblock Universal dependencies v1: A multilingual treebank collection.
+\newblock In {\em Proceedings of the 10th International Conference on Language
+  Resources and Evaluation}, pages 1659--1666.
+
+\bibitem[\protect\citename{Riedl and Harrison}2016]{riedl2016using}
+Mark~O Riedl and Brent Harrison.
+\newblock 2016.
+\newblock Using stories to teach human values to artificial agents.
+\newblock In {\em Workshops at the 30th AAAI Conference}.
+
+\bibitem[\protect\citename{Sutton and Barto}1998]{sutton1998reinforcement}
+Richard~S. Sutton and Andrew~G. Barto.
+\newblock 1998.
+\newblock {\em Introduction to Reinforcement Learning}.
+\newblock MIT Press, 1st edition.
+
+\end{thebibliography}

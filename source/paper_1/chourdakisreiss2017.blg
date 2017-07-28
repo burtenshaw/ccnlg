@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: chourdakisreiss2017.aux
+The style file: naaclhlt2016.bst
+Database file #1: chourdakisreiss2017.bib
+You've used 17 entries,
+            2490 wiz_defined-function locations,
+            636 strings with 6917 characters,
+and the built_in function-call counts, 6182 in all, are:
+= -- 627
+> -- 215
+< -- 2
++ -- 67
+- -- 66
+* -- 386
+:= -- 981
+add.period$ -- 69
+call.type$ -- 17
+change.case$ -- 93
+chr.to.int$ -- 17
+cite$ -- 17
+duplicate$ -- 313
+empty$ -- 546
+format.name$ -- 99
+if$ -- 1327
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 105
+num.names$ -- 51
+pop$ -- 142
+preamble$ -- 1
+purify$ -- 110
+quote$ -- 0
+skip$ -- 235
+stack$ -- 0
+substring$ -- 183
+swap$ -- 67
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 132
+warning$ -- 0
+while$ -- 42
+width$ -- 22
+write$ -- 229
