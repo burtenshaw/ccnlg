@@ -1,3 +1,5 @@
+Introduction to the Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)
+
 Welcome to the second edition of the Workshop on Computational Creativity in Natural Language Generation~(CC-NLG), collocated with INLG 2017, the International Conference on Natural Language Generation.
 
 As a follow-up of CC-NLG 2016, this workshop builds upon the dynamic of bringing together researchers dealing with text generation from a computational creativity perspective, and researchers in natural language generation with an interest in creative aspects.
