@@ -9,7 +9,7 @@
         <author>Lazkano, Elena</author>
         <title>Poet's Little Helper: A methodology for computer-based poetry generation. A case study for the Basque language</title>
         <book-title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</book-title>
-        <pages>x-x</pages>
+        <pages>1-9</pages>
         <year>2017</year>
         <month>September</month>
         <publisher>Association for Computational Linguistics</publisher>
@@ -18,11 +18,11 @@
         <bibtype>inproceedings</bibtype>
     </paper>
 
-    <paper id="3901">
+    <paper id="3902">
         <author>Gervás, Pablo</author>
         <title>Template-Free Construction of Rhyming Poems with Thematic Cohesion</title>
         <book-title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</book-title>
-        <pages>x-x</pages>
+        <pages>10-19</pages>
         <year>2017</year>
         <month>September</month>
         <publisher>Association for Computational Linguistics</publisher>
@@ -31,28 +31,11 @@
         <bibtype>inproceedings</bibtype>
     </paper>
 
-    <paper id="3901">
-        <tertiary-authors>
-        <author>Gon¸calo Oliveira, Hugo</author>
-        <author>Burtenshaw, Ben</author>
-        <author>Kestemont, Mike</author>
-        <author>De Smedt, Tom</author>
-        </tertiary-authors>
-        <title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</title>
-        <year>2017</year>
-        <month>September</month>
-        <pub-location>
-        Santiago de Compostela, Spain</pub-location>
-        <publisher>Association for Computational Linguistics</publisher>
-        <url>http://www.aclweb.org/anthology/W/W17/W17-39</url>
-        <bibtype>inproceedings</bibtype>
-    </paper>
-
-    <paper id="3901">
-        <author>Gon¸calo Oliveira, Hugo</author>
+    <paper id="3903">
+        <author>Gonçalo Oliveira, Hugo</author>
         <title>O Poeta Artificial 2.0: Increasing Meaningfulness in a Poetry Generation Twitter bot</title>
         <book-title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</book-title>
-        <pages>x-x</pages>
+        <pages>20-27</pages>
         <year>2017</year>
         <month>September</month>
         <publisher>Association for Computational Linguistics</publisher>
@@ -61,14 +44,14 @@
         <bibtype>inproceedings</bibtype>
     </paper>
 
-    <paper id="3901">
+    <paper id="3904">
         <author>Manjavacas, Enrique</author>
         <author>Karsdorp, Folgert</author>
         <author>Burtenshaw, Ben</author>
         <author>Kestemont, Mike</author>
         <title>Synthetic Literature: Writing Science Fiction in a Co-Creative Process</title>
         <book-title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</book-title>
-        <pages>x-x</pages>
+        <pages>28-36</pages>
         <year>2017</year>
         <month>September</month>
         <publisher>Association for Computational Linguistics</publisher>
@@ -77,12 +60,12 @@
         <bibtype>inproceedings</bibtype>
     </paper>
 
-    <paper id="3901">
+    <paper id="3905">
         <author>Theofanis Chourdakis, Emmanouil</author>
         <author>Reiss, Joshua</author>
         <title>Constructing narrative using a generative model and continuous action policies</title>
         <book-title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</book-title>
-        <pages>x-x</pages>
+        <pages>37-42</pages>
         <year>2017</year>
         <month>September</month>
         <publisher>Association for Computational Linguistics</publisher>
