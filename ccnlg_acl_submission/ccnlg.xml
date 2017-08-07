@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume id="w17">
 
+    <paper id="3900">
+        <author>Gonçalo Oliveira, Hugo</author>
+        <author>Burtenshaw, Ben</author>
+        <author>Kestemont, Mike</author>
+        <author>De Smedt, Tom</author>
+        <title>Introduction to the Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</title>
+        <book-title>Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)</book-title>
+        <pages>1-9</pages>
+        <year>2017</year>
+        <month>September</month>
+        <publisher>Association for Computational Linguistics</publisher>
+        <url>http://www.aclweb.org/anthology/W17-3900</url>
+        <address>Santiago de Compostela, Spain</address>
+        <bibtype>inproceedings</bibtype>
+    </paper>
+
     <paper id="3901">
         <author>Astigarraga, Aitzol</author>
         <author>Maŕıa Mart́ınez-Otzeta, José</author>
